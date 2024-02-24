@@ -17,6 +17,8 @@ N/A
 
 This application is a webpage about digital marketing strategies and their benefits.
 
+[Link to the project](https://enkw.github.io/c01-accessibility-refactor/)
+
 ![Screenshot of the body of the page](./assets/images/Screenshot-of-completed-project.png)
 
 ## Credits
